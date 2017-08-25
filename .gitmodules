@@ -1,0 +1,3 @@
+[submodule "segoeUI"]
+	path = segoeUI
+	url = https://github.com/theBull/segoeUI
